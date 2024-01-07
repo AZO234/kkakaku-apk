@@ -5,8 +5,8 @@ android {
 
     defaultConfig {
         applicationId "com.kkakaku"
-        minSdkVersion 14
-        targetSdkVersion 31
+        minSdkVersion 31
+        targetSdkVersion 34
     }
 
     buildTypes {
@@ -26,8 +26,4 @@ android {
     }
     buildToolsVersion '34.0.0'
 
-}
-
-dependencies {
-    implementation 'com.android.support:support-v4:28.0.0'
 }
