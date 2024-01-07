@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/id_menu_Usage"
+        android:orderInCategory="100"
+        android:title="@string/usage"/>
+    <item
+        android:id="@+id/id_menu_SearchOptionSettings"
+        android:orderInCategory="100"
+        android:title="@string/mem_searchconditions"/>
+    <item
+        android:id="@+id/id_menu_HistorySettings"
+        android:orderInCategory="100"
+        android:title="@string/setting_history"/>
+    <item
+        android:id="@+id/id_menu_HistoryClear"
+        android:orderInCategory="100"
+        android:title="@string/clear_history"/>
+    <item
+        android:id="@+id/id_menu_About"
+        android:orderInCategory="100"
+        android:title="@string/about"/>
+    <item
+        android:id="@+id/id_menu_WebEngine"
+        android:orderInCategory="100"
+        android:title="@string/seting_web_search"/>
+
+</menu>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نطاق السعر</string>
+    <string name="heading_title">نطاق السعر</string>
+    <string name="clear">محو</string>
+    <string name="history">تاريخ</string>
+    <string name="read_barcode">قراءة الباركود</string>
+    <string name="price_search">مسح الأسعار</string>
+    <string name="web">البحث في الويب</string>
+    <string name="share">مشاركة كلمة البحث</string>
+    <string name="order">ترتيب العرض</string>
+    <string name="price_range">نطاق السعر</string>
+    <string name="to_yen">أقل من الين</string>
+    <string name="from_yen">ين أو أكثر</string>
+    <string name="condition">حالة المنتج</string>
+    <string name="only_new">علامة تجارية جديدة</string>
+    <string name="include_used">العناصر المستعملة متوفرة</string>
+    <string name="free_shipping">ًالشحن مجانا</string>
+    <string name="unspecified">غير محدد</string>
+    <string name="free">حر</string>
+    <string name="product_id">معرف المنتج</string>
+    <string name="display">عرض</string>
+    <string name="none">لا أحد</string>
+    <string name="cheap">رخيص</string>
+    <string name="expensive">غالي</string>
+    <string name="usage">الاستخدام</string>
+    <string name="setting_history">إعدادات التاريخ</string>
+    <string name="clear_history">تاريخ واضح</string>
+    <string name="about">عن هذا التطبيق</string>
+    <string name="seting_web_search">إعدادات بحث الويب</string>
+    <string name="mem_searchconditions">بحث حالة الذاكرة</string>
+    <string name="memory">يتذكر</string>
+    <string name="nomemory">لا أتذكر</string>
+    <string name="ok">نعم</string>
+    <string name="delete_history">تاريخ واضح. هل الامور على ما يرام؟</string>
+    <string name="usage_detail">هذا تطبيق يبحث في الأسعار في المتاجر اليابانية. يرجى الاستفادة منه!</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Easy price search</string>
+    <string name="heading_title">Easy price search</string>
+    <string name="clear">clear</string>
+    <string name="history">history</string>
+    <string name="read_barcode">barcode reading</string>
+    <string name="price_search">price survey</string>
+    <string name="web">web search</string>
+    <string name="share">share search word</string>
+    <string name="order">order</string>
+    <string name="price_range">price range</string>
+    <string name="from_yen">yen～</string>
+    <string name="to_yen">yen</string>
+    <string name="condition">product condition</string>
+    <string name="only_new">new</string>
+    <string name="include_used">including used</string>
+    <string name="free_shipping">free shipping</string>
+    <string name="unspecified">unspecified</string>
+    <string name="free">free</string>
+    <string name="product_id">product id</string>
+    <string name="display">display</string>
+    <string name="none">none</string>
+    <string name="cheap">cheap</string>
+    <string name="expensive">expensive</string>
+    <string name="usage">usage</string>
+    <string name="setting_history">history settings</string>
+    <string name="clear_history">clear history</string>
+    <string name="about">about this app</string>
+    <string name="seting_web_search">web search settings</string>
+    <string name="mem_searchconditions">search condition memory</string>
+    <string name="memory">memory</string>
+    <string name="nomemory">dont memory</string>
+    <string name="ok">OK</string>
+    <string name="delete_history">Clear history. Is it OK?</string>
+    <string name="usage_detail">This is an app that investigates prices at Japanese stores. Please take advantage of it!</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+</resources>

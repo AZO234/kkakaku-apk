@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">かんたん価格調査</string>
+    <string name="app_base_url" translatable="false">https://domisan.sakura.ne.jp/kkc/</string>
+    <string name="heading_title">かんたん価格調査</string>
+    <string name="clear">クリア</string>
+    <string name="history">履歴</string>
+    <string name="read_barcode">バーコード読み撮り</string>
+    <string name="price_search">価格調査</string>
+    <string name="web">Web検索</string>
+    <string name="share">検索ワードを共有</string>
+    <string name="order">表示順序</string>
+    <string name="none">なし</string>
+    <string name="cheap">安い</string>
+    <string name="expensive">高い</string>
+    <string name="price_range">値段条件</string>
+    <string name="from_yen">円～</string>
+    <string name="to_yen">円</string>
+    <string name="condition">商品状態</string>
+    <string name="only_new">新品のみ</string>
+    <string name="include_used">中古含む</string>
+    <string name="free_shipping">送料無料</string>
+    <string name="unspecified">指定なし</string>
+    <string name="free">無料</string>
+    <string name="product_id">商品ID</string>
+    <string name="display">表示</string>
+    <string name="usage">使い方</string>
+    <string name="setting_history">履歴設定</string>
+    <string name="clear_history">履歴をクリア</string>
+    <string name="about">このアプリについて</string>
+    <string name="seting_web_search">Web検索設定</string>
+    <string name="mem_searchconditions">価格調査条件記憶</string>
+    <string name="memory">記憶する</string>
+    <string name="nomemory">記憶しない</string>
+    <string name="yes">はい</string>
+    <string name="no">いいえ</string>
+    <string name="ok">OK</string>
+    <string name="delete_history">履歴をクリアします。よろしいですか？</string>
+    <string name="usage_detail">複数ショッピングサイトを同時に価格調査するアプリです。
+        商品名、バーコード番号などを入力して「価格調査」ボタンを押します。
+        複数のショッピングサイトを横断検索するので、多くの商品が検索出来ます。最安価格の検討や掘り出し物探しなど、使い方は貴方次第。
+        是非、ご活用下さい！</string>
+
+</resources>

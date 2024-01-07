@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Простой опрос цен</string>
+    <string name="heading_title">Простой опрос цен</string>
+    <string name="clear">стереть</string>
+    <string name="history">история</string>
+    <string name="read_barcode">чтение штрих-кода</string>
+    <string name="price_search">" ценовой обзор"</string>
+    <string name="web">веб-поиск</string>
+    <string name="share">Поделиться искомым словом</string>
+    <string name="order">заказ</string>
+    <string name="price_range">ценовой диапазон</string>
+    <string name="from_yen">иена～</string>
+    <string name="to_yen">иена</string>
+    <string name="condition">Состояние продукта</string>
+    <string name="only_new">Новый</string>
+    <string name="include_used">Б/у вещи тоже</string>
+    <string name="free_shipping">бесплатная доставка</string>
+    <string name="unspecified">неопределенные</string>
+    <string name="free">бесплатно</string>
+    <string name="product_id">Код товара</string>
+    <string name="display">отображать</string>
+    <string name="none">никто</string>
+    <string name="cheap">дешевый</string>
+    <string name="expensive">дорогой</string>
+    <string name="usage">Применение</string>
+    <string name="setting_history">Настройки истории</string>
+    <string name="clear_history">чистая история</string>
+    <string name="about">Об этом приложении</string>
+    <string name="seting_web_search">Настройки веб-поиска</string>
+    <string name="mem_searchconditions">Память условий поиска</string>
+    <string name="memory">Помнить</string>
+    <string name="nomemory">" не помню"</string>
+    <string name="ok">ХОРОШО</string>
+    <string name="delete_history">Чистая история. Это нормально?</string>
+    <string name="usage_detail">Это приложение, которое исследует цены в японских магазинах. Пожалуйста, воспользуйтесь этим!</string>
+    <string name="yes">да</string>
+    <string name="no">нет</string>
+</resources>
