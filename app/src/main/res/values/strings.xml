@@ -36,6 +36,7 @@
     <string name="yes">はい</string>
     <string name="no">いいえ</string>
     <string name="ok">OK</string>
+    <string name="serching">検索中</string>
     <string name="delete_history">履歴をクリアします。よろしいですか？</string>
     <string name="usage_detail">複数ショッピングサイトを同時に価格調査するアプリです。
         商品名、バーコード番号などを入力して「価格調査」ボタンを押します。

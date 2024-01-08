@@ -36,4 +36,5 @@
     <string name="usage_detail">هذا تطبيق يبحث في الأسعار في المتاجر اليابانية. يرجى الاستفادة منه!</string>
     <string name="yes">نعم</string>
     <string name="no">لا</string>
+    <string name="serching">يبحث</string>
 </resources>

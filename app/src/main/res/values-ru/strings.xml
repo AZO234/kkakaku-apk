@@ -36,4 +36,5 @@
     <string name="usage_detail">Это приложение, которое исследует цены в японских магазинах. Пожалуйста, воспользуйтесь этим!</string>
     <string name="yes">да</string>
     <string name="no">нет</string>
+    <string name="serching">" Идет поиск"</string>
 </resources>

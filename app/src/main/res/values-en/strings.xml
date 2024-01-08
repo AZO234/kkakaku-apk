@@ -36,4 +36,5 @@
     <string name="usage_detail">This is an app that investigates prices at Japanese stores. Please take advantage of it!</string>
     <string name="yes">yes</string>
     <string name="no">no</string>
+    <string name="serching">searching</string>
 </resources>

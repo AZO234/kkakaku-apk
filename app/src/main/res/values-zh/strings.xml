@@ -36,4 +36,5 @@
     <string name="usage_detail">这是一款调查日本商店价格的应用程序。请好好利用它！</string>
     <string name="yes">是的</string>
     <string name="no">但</string>
+    <string name="serching">搜寻中</string>
 </resources>
